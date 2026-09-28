@@ -1,0 +1,29 @@
+SOURCES USED FOR KNOWLEDGE ACQUISITION
+
+The expert system was developed using computer troubleshooting knowledge obtained from technical support documentation.
+
+1. Microsoft Support – Tips to improve PC performance in Windows
+   https://support.microsoft.com/en-us/windows/experience/performance-optimization/tips-to-improve-pc-performance-in-windows
+
+2. Microsoft Support – Fix Wi-Fi connection issues in Windows
+   https://support.microsoft.com/en-us/windows/experience/connectivity-networking/fix-wi-fi-connection-issues-in-windows
+
+3. Microsoft Support – Fix sound or audio problems in Windows
+   https://support.microsoft.com/en-US/Windows/Hardware/Audio/fix-sound-or-audio-problems-in-windows
+
+4. Microsoft Support – Troubleshooting blank screens in Windows
+   https://support.microsoft.com/en-us/windows/hardware/display-graphics/troubleshooting-blank-screens-in-windows
+
+5. Microsoft Support – Mouse and keyboard problems in Windows
+   https://support.microsoft.com/en-US/Windows/Hardware/input-devices/mouse-and-keyboard-problems-in-windows
+
+6. Dell Support – How to stop computer and laptop overheating and shutdown issues
+   https://www.dell.com/support/kbdoc/en-us/000130867/how-to-troubleshoot-a-overheating-shutdown-or-thermal-issue-on-a-dell-pc
+
+7. Dell Support – How to troubleshoot fan issues
+   https://www.dell.com/support/kbdoc/en-lk/000179087/how-to-troubleshoot-fan-issues
+
+8. Dell Support – How to troubleshoot USB issues
+   https://www.dell.com/support/kbdoc/en-pg/000132048/how-to-troubleshoot-usb-issues
+
+The above sources were used as the knowledge basis for identifying computer symptoms, troubleshooting relationships, and recommended solutions. The knowledge was represented as facts and rules in Prolog.
